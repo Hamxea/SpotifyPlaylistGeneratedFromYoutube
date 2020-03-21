@@ -1,2 +1,2 @@
 # SpotifyPlaylistGeneratedFromYoutube
-Generates a Spotify playlist based on the song in your liked videos.
+Generates a Spotify playlist based on the songs you like on youtube
