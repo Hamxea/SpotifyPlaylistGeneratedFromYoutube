@@ -147,3 +147,4 @@ class CreatePlaylist():
         response_json = response.json()
 
         return response_json
+
